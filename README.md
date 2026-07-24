@@ -1,6 +1,6 @@
 # AI Voice Assistant 
 
-A simple interactive voice assistant application built using **Python**, which integrates speech-to-text conversion, processing via artificial intelligence models, and text to speech audio output.
+A simple interactive voice assistant application built using **Python**, which integrates speech to text conversion, processing via artificial intelligence models, and text to speech audio output.
 
 ---
 
